@@ -49,7 +49,6 @@ Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) spe
 
 ### Specializations
 - **Machine Learning**: Neural Networks, Deep Learning, NLP, Computer Vision
-- **IoT & Embedded**: NodeMCU/ESP8266, Sensor Integration, Networking Protocols
 - **Web Development**: Full-Stack (MERN), Payment Gateway Integration, Progressive Web Apps
 - **Creative Tools**: Video Editing, Graphic Design, UI/UX
 
@@ -61,12 +60,4 @@ Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) spe
 Deep learning model for movie review sentiment classification using bidirectional LSTM architecture with TensorFlow/Keras. Explored data augmentation techniques for improved accuracy.
 
 **Tech**: Python • TensorFlow • Keras • NLP
-
----
-
-
-## 🎯 Current Focus
-
-- 📚 Mastering advanced neural network architectures (LSTM, RNN, CNN)
-- 🤖 Exploring prompt engineering for generative AI applications
 
