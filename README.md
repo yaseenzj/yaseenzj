@@ -47,12 +47,4 @@ Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) spe
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 💼 Featured Projects
-
-### 🧠 Sentiment Analysis with Bi-LSTM
-Deep learning model for movie review sentiment classification using bidirectional LSTM architecture with TensorFlow/Keras. Explored data augmentation techniques for improved accuracy.
-
-**Tech**: Python • TensorFlow • Keras • NLP
 
