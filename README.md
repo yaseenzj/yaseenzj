@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) specializing in **AI, Machine Learning, Robotics with IoT**. Passionate about building intelligent systems and crafting seamless web experiences. Currently seeking ML/AI engineering internships and entry-level roles starting January 2026.
+Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) specializing in **AI, Machine Learning, Robotics with IoT**. Passionate about building intelligent systems and crafting seamless web experiences. Currently seeking ML/AI engineering collaborations
 
 - 🔬 Researching deep learning architectures (Bi-LSTM, CNN, RNN)
 - 🏆 2nd Place at State-Level HealthTech Hackathon
