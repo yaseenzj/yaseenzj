@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseenzjofficial@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yaseenzj&color=brightgreen&style=for-the-badge)
 
 </div>
 
@@ -19,10 +19,8 @@
 Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) specializing in **AI, Machine Learning, Robotics with IoT**. Passionate about building intelligent systems and crafting seamless web experiences. Currently seeking ML/AI engineering internships and entry-level roles starting January 2026.
 
 - 🔬 Researching deep learning architectures (Bi-LSTM, CNN, RNN)
-- 🏆 2nd Place at State-Level HealthTech Hackathon (Cognitive Health Monitoring App)
-- 📰 President of Newsletter Club | Video Production & Design Enthusiast
-- 🌱 Currently learning: Prompt Engineering, Azure Cloud (AI-900, DP-900)
-- 💬 Ask me about: Neural Networks, IoT Systems, Full-Stack Development
+- 🏆 2nd Place at State-Level HealthTech Hackathon
+- 🌱 Currently learning: Generative AI, MLOps
 
 ---
 
@@ -68,75 +66,20 @@ Deep learning model for movie review sentiment classification using bidirectiona
 
 ---
 
-### 📱 Mobile EHR for ASHA Workers
-Healthcare app designed for community health workers in low-connectivity rural areas. Features offline-first architecture with intuitive interface for minimal training requirements.
-
-**Tech**: React Native • Firebase • Offline Sync
-
----
-
-### 🏥 Cognitive Health Monitoring App (2nd Place - State Hackathon)
-AI-powered mobile application targeting early Alzheimer's detection through memory games and voice-based cognitive effort monitoring. Built for seniors, caregivers, and healthcare providers.
-
-**Tech**: React Native • TensorFlow • Voice Recognition
-
----
-
-### 🌐 Video Livestreaming Application
-FanCode-style streaming platform with real-time video delivery, payment gateway integration, and user authentication.
-
-**Tech**: Node.js • React • Firebase • Razorpay
-
----
-
-### 🤖 IoT Automation System
-NodeMCU-based sensor monitoring and automation system with real-time data visualization and remote control capabilities.
-
-**Tech**: NodeMCU/ESP8266 • Arduino • MQTT • IoT Protocols
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
 - 📚 Mastering advanced neural network architectures (LSTM, RNN, CNN)
-- ☁️ Pursuing Azure certifications (AI-900, DP-900)
 - 🤖 Exploring prompt engineering for generative AI applications
-- 🔍 Seeking ML/AI internship opportunities (Jan 2026 start)
-
----
-
-## 🏆 Achievements
-
-- 🥈 2nd Place - State-Level HealthTech Hackathon (Sept 2025)
-- 📰 President - University Newsletter Club
-- 🎓 CGPA: 8.7/10 | Target: 9.5
-- 📹 Co-founder - Creative Video Production Agency
-- 🎨 Club Officer - National Education Policy Implementation
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always excited to collaborate on ML/AI projects, IoT innovations, or full-stack development opportunities. Open to internships, freelance work, and interesting conversations!
+I'm always excited to collaborate on ML/AI projects or full-stack development opportunities. Open to internships, freelance work, and interesting conversations!
 
-- 📧 Email: yaseenzjofficial@gmail.com
-- 📱 Phone: +91 89516 15908
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 📧 Email: mhyaseen.bsn@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/yaseenzj/
 
 ---
 
