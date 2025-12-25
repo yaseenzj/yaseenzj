@@ -47,11 +47,6 @@ Final-semester BCA student at **Yenepoya University, Mangalore** (CGPA: 8.7) spe
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Specializations
-- **Machine Learning**: Neural Networks, Deep Learning, NLP, Computer Vision
-- **Web Development**: Full-Stack (MERN), Payment Gateway Integration, Progressive Web Apps
-- **Creative Tools**: Video Editing, Graphic Design, UI/UX
-
 ---
 
 ## 💼 Featured Projects
