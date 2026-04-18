@@ -1,56 +1,134 @@
 <div align="center">
-  
-# 👋 Hi, I'm Mohammed Yaseen
+  <h1>Hi, I'm Yaseen 👋</h1>
+  <p><b>BCA Graduate | Technical Intern @ TCE | Robotics & Agentic AI</b></p>
+</div>
 
-###   Agentic AI Engineer | LLM Orchestration & Robotics | BCA Final Year
+<div align="center">
+  <a href="https://linkedin.com/in/yaseenzj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-mhyaseen.bsn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/yaseenzjx">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseenzj/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yaseenzjx/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhyaseen.bsn@gmail.com)
+<br/>
+
+## About
+
+Building the bridge between high-level LLM orchestration and low-level hardware.
+
+**Technical Intern @ TCE** — Mastering developer productivity tools like GitHub Codespaces and Copilot while building internal utilities. My focus is on streamlining engineering workflows through AI-driven automation.
+
+**Robotics & Embedded Systems** — Currently developing a voice-controlled robotic platform. I believe that for AI to be truly useful, it must interact with the physical world through efficient, local inference.
+
+---
+
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Embedded Intelligence
+**Lead Developer** — Voice-Controlled LLM Robot
+
+Architecting a multi-layered platform using **Raspberry Pi 4** and **Arduino Mega**. By integrating **Ollama (Llama/TinyLlama)**, I'm enabling real-time voice command processing without relying on cloud APIs.
+
+</td>
+<td width="50%" valign="top">
+
+### Internal Tooling
+**Technical Intern** — Inventory & Logic
+
+Building automated systems using **AppSheet** to manage complex stock tracking and audit logs. I focus on turning low-code platforms into high-reliability business tools for inventory management.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Background
+
+<div align="center">
+
+| | Experience | Focus |
+|:---:|:---|:---|
+| 🤖 | **Robotics Integration** | Raspberry Pi 4 + Arduino Mega hardware stacks |
+| 🧠 | **Agentic AI** | Local LLM orchestration via Ollama & Python |
+| 💻 | **BCA Final Year** | Academic focus on Software Engineering & Data Systems |
+
+</div>
+
+> *"Turning complex hardware challenges into intelligent, automated solutions through context-aware AI."*
+
+---
+
+## Technical Projects & Milestones
+
+<div align="center">
+
+**Voice-Controlled Robotics Stack (Spring 2026)**
+<br/>
+<sub>Local LLM Inference | Motor Control | Raspberry Pi OS</sub>
+<br/>
+📄 [Hardware Logic Architecture] | [Software Environment Setup]
+
+<br/><br/>
+
+![Linux Proficiency](https://img.shields.io/badge/OS-Raspberry_Pi_OS_(Debian)-A22846?style=flat-square&logo=raspberrypi)
+![Embedded Logic](https://img.shields.io/badge/Hardware-Arduino_Mega_+_L298N-00979D?style=flat-square&logo=arduino)
+![AI Stack](https://img.shields.io/badge/AI_Orchestration-Ollama-white?style=flat-square&logo=ollama&logoColor=black)
+
+</div>
+
+### Domains of Interest
+
+`Agentic AI` `Embedded Systems` `LLM` `Inventory Logic` `App developement` `ML Algorithms`
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages & AI**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,github&theme=dark" alt="Languages & AI"/>
+
+**Hardware & Embedded**
+
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,bash&theme=dark" alt="Hardware"/>
+
+**Tools & Productivity**
+
+<img src="https://skillicons.dev/icons?i=vscode,githubactions,codepen,git&theme=dark" alt="Tools"/>
 
 </div>
 
 ---
 
-## 🎓 About Me
+## GitHub Stats
 
-I specialize in building **Agentic AI Systems** moving beyond static models to autonomous agents capable of reasoning, tool-use, and complex task execution. 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0a0a0a&ring=00d084&fire=00d084&currStreakLabel=00d084&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="60%" alt="GitHub Streak Stats"/>
+</div>
 
-- 🧠 **Agentic Research:** Developing autonomous loops using frameworks like LangChain and CrewAI.
-- 🤖 **Robotics x AI:** Integrating LLM "brains" into physical hardware (Raspberry Pi/Arduino) for voice-controlled robotics.
-- 🏆 **State-Level Hackathon Winner:** 2nd Place in HealthTech (applying AI to real-world diagnostics).
-- 🌱 **Currently deep-diving into:** Multi-Agent Systems (MAS), Vector Databases, and LLM Tool Call Optimization.
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="100%" alt="GitHub Profile Summary"/>
+</div>
 
----
-
-## 🛠️ Tech Stack (The Agentic Toolkit)
-
-### Core AI & Agents
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Machine Learning & Research
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Web & Integration (The Full-Stack Edge)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Data & Infrastructure
-![Pinecone](https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge&logo=pinecone&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="49%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="49%" alt="Most Commit Language"/>
+</div>
 
 ---
 
-## 📈 Recent Focus
-- **Autonomous RAG:** Building knowledge-retrieval agents that verify their own sources.
-- **Hardware Agents:** Deploying voice-to-action pipelines on edge devices (Raspberry Pi).
-- **Prompt Engineering:** Optimizing ReAct (Reason + Act) patterns for reduced latency.
+<div align="center">
+  <sub>Last Updated: 2026-04-17 | Driven by curiosity and code.</sub>
+</div>
